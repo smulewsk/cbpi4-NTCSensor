@@ -16,5 +16,4 @@ Plugin for Craftbeerpi 4 to measure temperature from NTC sensor using external A
 
 sudo pip3 install https://github.com/smulewsk/cbpi4-NTCSensor/archive/main.zip
 
-cpbpi add cbpi4-NTCSensor
-
+cbpi add cbpi4-NTCSensor
