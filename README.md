@@ -7,7 +7,7 @@ Plugin for Craftbeerpi 4 to measure temperature from NTC sensor using external A
 
 * Offset - Offset which is added to the received sensor data. Positive and negative values are both allowed
 * Rs - Value of the series resistor connected to the thermistor
-* Rs connected to - Type of Rs connection
+* Rs connected to - Type of Rs connection (330ohms for 10k thermistor, 3.3Kohms for 100k thermistor)
 * Vmax - Voltage max of ADC
 * Beta - Beta of thermistor
 * Delay - Delay of measurement in secs
